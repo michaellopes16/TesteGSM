@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "879527273197",
+    "firebase_url": "https://lteteste-8f008.firebaseio.com",
+    "project_id": "lteteste-8f008",
+    "storage_bucket": "lteteste-8f008.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879527273197:android:78e47a7937d098c5",
+        "android_client_info": {
+          "package_name": "com.example.fitec.testegsm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879527273197-ncb8ts65mls4eib0obav6ufrufheueu0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV_85OdGCf-GZfFen4zT3op3t48eh_qxQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

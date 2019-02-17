@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TesteGSM</string>
+    <string-array name="numbers">
+        <item>Indoor</item>
+        <item>Outdoor</item>
+    </string-array>
+</resources>

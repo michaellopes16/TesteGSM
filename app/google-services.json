@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "798550053158",
+    "firebase_url": "https://lteteste-8f008.firebaseio.com/",
+    "project_id": "testegsm-4d7c4",
+    "storage_bucket": "testegsm-4d7c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798550053158:android:78e47a7937d098c5",
+        "android_client_info": {
+          "package_name": "com.example.fitec.testegsm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798550053158-l1p1po0oi66bpusppaojfe8qrih8bli6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fitec.testegsm",
+            "certificate_hash": "f91b10ec5c4542ab53c296131c92c48b07adb5ef"
+          }
+        },
+        {
+          "client_id": "798550053158-ca6duiumo4398uvc1ulua8987qu3tpr6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADVHE6GVMv4TPq3dvcNnOrERSxbHWFY4Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798550053158-ca6duiumo4398uvc1ulua8987qu3tpr6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
